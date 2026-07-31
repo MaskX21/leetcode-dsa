@@ -5,4 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/MaskX21/leetcode-dsa/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/MaskX21/leetcode-dsa/tree/master/0066-plus-one) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/MaskX21/leetcode-dsa/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
