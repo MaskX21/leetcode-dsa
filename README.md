@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/MaskX21/leetcode-dsa/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/MaskX21/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/MaskX21/leetcode-dsa/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/MaskX21/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MaskX21/leetcode-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MaskX21/leetcode-dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Math
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MaskX21/leetcode-dsa/tree/master/0013-roman-to-integer) |
+| [0229-majority-element-ii](https://github.com/MaskX21/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/MaskX21/leetcode-dsa/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/MaskX21/leetcode-dsa/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/MaskX21/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/MaskX21/leetcode-dsa/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/MaskX21/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/MaskX21/leetcode-dsa/tree/master/0242-valid-anagram) |
 ## Quicksort
 |  |
@@ -70,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MaskX21/leetcode-dsa/tree/master/0075-sort-colors) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/MaskX21/leetcode-dsa/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/MaskX21/leetcode-dsa/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
