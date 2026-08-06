@@ -1,15 +1,25 @@
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
-        unordered_map<int, int> mp;
+        int low = 0;
+        int high = nums.size() - 1;
 
-        for (int num : nums)
-            mp[num]++;
+        while (low < high) {
+            int mid = low + (high - low) / 2;
 
-        for (int num : nums)
-            if (mp[num] == 1)
-                return num;
+            // Make mid even
+            if (mid % 2 == 1)
+                mid--;
 
-        return -1;
+            if (nums[mid] == nums[mid + 1]) {
+                // Single element is on the right
+                low = mid + 2;
+            } else {
+                // Single element is on the left (or at mid)
+                high = mid;
+            }
+        }
+
+        return nums[low];
     }
 };
