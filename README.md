@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/MaskX21/leetcode-dsa/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/MaskX21/leetcode-dsa/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/MaskX21/leetcode-dsa/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/MaskX21/leetcode-dsa/tree/master/0179-largest-number) |
 ## Math
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MaskX21/leetcode-dsa/tree/master/0013-roman-to-integer) |
+| [0179-largest-number](https://github.com/MaskX21/leetcode-dsa/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/MaskX21/leetcode-dsa/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
@@ -46,11 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/MaskX21/leetcode-dsa/tree/master/0179-largest-number) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/MaskX21/leetcode-dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MaskX21/leetcode-dsa/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/MaskX21/leetcode-dsa/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/MaskX21/leetcode-dsa/tree/master/0242-valid-anagram) |
 ## Quicksort
 |  |
