@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MaskX21/leetcode-dsa/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/MaskX21/leetcode-dsa/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/MaskX21/leetcode-dsa/tree/master/0069-sqrtx) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/MaskX21/leetcode-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/MaskX21/leetcode-dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Search
 |  |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/MaskX21/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/MaskX21/leetcode-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
