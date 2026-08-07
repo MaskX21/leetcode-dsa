@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MaskX21/leetcode-dsa/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/MaskX21/leetcode-dsa/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/MaskX21/leetcode-dsa/tree/master/0069-sqrtx) |
+| [1903-largest-odd-number-in-string](https://github.com/MaskX21/leetcode-dsa/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/MaskX21/leetcode-dsa/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MaskX21/leetcode-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/MaskX21/leetcode-dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MaskX21/leetcode-dsa/tree/master/0013-roman-to-integer) |
 | [0179-largest-number](https://github.com/MaskX21/leetcode-dsa/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/MaskX21/leetcode-dsa/tree/master/0242-valid-anagram) |
+| [1903-largest-odd-number-in-string](https://github.com/MaskX21/leetcode-dsa/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/MaskX21/leetcode-dsa/tree/master/0179-largest-number) |
+| [1903-largest-odd-number-in-string](https://github.com/MaskX21/leetcode-dsa/tree/master/1903-largest-odd-number-in-string) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/MaskX21/leetcode-dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Sorting
 |  |
