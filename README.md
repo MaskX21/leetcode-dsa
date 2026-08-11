@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MaskX21/leetcode-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MaskX21/leetcode-dsa/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/MaskX21/leetcode-dsa/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/MaskX21/leetcode-dsa/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/MaskX21/leetcode-dsa/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/MaskX21/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/MaskX21/leetcode-dsa/tree/master/0075-sort-colors) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/MaskX21/leetcode-dsa/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/MaskX21/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [2643-row-with-maximum-ones](https://github.com/MaskX21/leetcode-dsa/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/MaskX21/leetcode-dsa/tree/master/2965-find-missing-and-repeated-values) |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MaskX21/leetcode-dsa/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/MaskX21/leetcode-dsa/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
