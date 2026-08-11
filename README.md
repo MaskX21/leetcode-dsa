@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/MaskX21/leetcode-dsa/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/MaskX21/leetcode-dsa/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/MaskX21/leetcode-dsa/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/MaskX21/leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MaskX21/leetcode-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MaskX21/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [1539-kth-missing-positive-number](https://github.com/MaskX21/leetcode-dsa/tree/master/1539-kth-missing-positive-number) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MaskX21/leetcode-dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MaskX21/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/MaskX21/leetcode-dsa/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/MaskX21/leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MaskX21/leetcode-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [1539-kth-missing-positive-number](https://github.com/MaskX21/leetcode-dsa/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
@@ -123,12 +125,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/MaskX21/leetcode-dsa/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/MaskX21/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/MaskX21/leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [2643-row-with-maximum-ones](https://github.com/MaskX21/leetcode-dsa/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/MaskX21/leetcode-dsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MaskX21/leetcode-dsa/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/MaskX21/leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
