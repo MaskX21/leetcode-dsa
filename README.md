@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MaskX21/leetcode-dsa/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/MaskX21/leetcode-dsa/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/MaskX21/leetcode-dsa/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/MaskX21/leetcode-dsa/tree/master/0231-power-of-two) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MaskX21/leetcode-dsa/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/MaskX21/leetcode-dsa/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/MaskX21/leetcode-dsa/tree/master/2965-find-missing-and-repeated-values) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/MaskX21/leetcode-dsa/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/MaskX21/leetcode-dsa/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/MaskX21/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -199,5 +201,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/MaskX21/leetcode-dsa/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/MaskX21/leetcode-dsa/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
