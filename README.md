@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/MaskX21/leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MaskX21/leetcode-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MaskX21/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MaskX21/leetcode-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/MaskX21/leetcode-dsa/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MaskX21/leetcode-dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2643-row-with-maximum-ones](https://github.com/MaskX21/leetcode-dsa/tree/master/2643-row-with-maximum-ones) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/MaskX21/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MaskX21/leetcode-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Enumeration
 |  |
 | ------- |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MaskX21/leetcode-dsa/tree/master/0225-implement-stack-using-queues) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MaskX21/leetcode-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
