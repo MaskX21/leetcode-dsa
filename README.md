@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MaskX21/leetcode-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/MaskX21/leetcode-dsa/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MaskX21/leetcode-dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/MaskX21/leetcode-dsa/tree/master/1929-concatenation-of-array) |
 | [2643-row-with-maximum-ones](https://github.com/MaskX21/leetcode-dsa/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/MaskX21/leetcode-dsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MaskX21/leetcode-dsa/tree/master/0054-spiral-matrix) |
+| [1929-concatenation-of-array](https://github.com/MaskX21/leetcode-dsa/tree/master/1929-concatenation-of-array) |
 ## Stack
 |  |
 | ------- |
