@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/MaskX21/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MaskX21/leetcode-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MaskX21/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/MaskX21/leetcode-dsa/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/MaskX21/leetcode-dsa/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/MaskX21/leetcode-dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/MaskX21/leetcode-dsa/tree/master/1004-max-consecutive-ones-iii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/MaskX21/leetcode-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/MaskX21/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/MaskX21/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/MaskX21/leetcode-dsa/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/MaskX21/leetcode-dsa/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/MaskX21/leetcode-dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/MaskX21/leetcode-dsa/tree/master/1248-count-number-of-nice-subarrays) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/MaskX21/leetcode-dsa/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/MaskX21/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/MaskX21/leetcode-dsa/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/MaskX21/leetcode-dsa/tree/master/0645-set-mismatch) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/MaskX21/leetcode-dsa/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Quicksort
 |  |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/MaskX21/leetcode-dsa/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/MaskX21/leetcode-dsa/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/MaskX21/leetcode-dsa/tree/master/0476-number-complement) |
+| [0645-set-mismatch](https://github.com/MaskX21/leetcode-dsa/tree/master/0645-set-mismatch) |
 ## Backtracking
 |  |
 | ------- |
