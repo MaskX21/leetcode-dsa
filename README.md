@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/MaskX21/leetcode-dsa/tree/master/1929-concatenation-of-array) |
 | [2643-row-with-maximum-ones](https://github.com/MaskX21/leetcode-dsa/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/MaskX21/leetcode-dsa/tree/master/2965-find-missing-and-repeated-values) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/MaskX21/leetcode-dsa/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Math
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/MaskX21/leetcode-dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MaskX21/leetcode-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2965-find-missing-and-repeated-values](https://github.com/MaskX21/leetcode-dsa/tree/master/2965-find-missing-and-repeated-values) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/MaskX21/leetcode-dsa/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## String
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/MaskX21/leetcode-dsa/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/MaskX21/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/MaskX21/leetcode-dsa/tree/master/0242-valid-anagram) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/MaskX21/leetcode-dsa/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Quicksort
 |  |
 | ------- |
