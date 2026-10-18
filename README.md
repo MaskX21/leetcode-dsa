@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/MaskX21/leetcode-dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MaskX21/leetcode-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/MaskX21/leetcode-dsa/tree/master/1539-kth-missing-positive-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MaskX21/leetcode-dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MaskX21/leetcode-dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/MaskX21/leetcode-dsa/tree/master/1929-concatenation-of-array) |
 | [2643-row-with-maximum-ones](https://github.com/MaskX21/leetcode-dsa/tree/master/2643-row-with-maximum-ones) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/MaskX21/leetcode-dsa/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/MaskX21/leetcode-dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MaskX21/leetcode-dsa/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MaskX21/leetcode-dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1903-largest-odd-number-in-string](https://github.com/MaskX21/leetcode-dsa/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/MaskX21/leetcode-dsa/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MaskX21/leetcode-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -183,10 +185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/MaskX21/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/MaskX21/leetcode-dsa/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MaskX21/leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MaskX21/leetcode-dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MaskX21/leetcode-dsa/tree/master/0053-maximum-subarray) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MaskX21/leetcode-dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Simulation
 |  |
 | ------- |
@@ -270,4 +274,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/MaskX21/leetcode-dsa/tree/master/0496-next-greater-element-i) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MaskX21/leetcode-dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MaskX21/leetcode-dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MaskX21/leetcode-dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MaskX21/leetcode-dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MaskX21/leetcode-dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MaskX21/leetcode-dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MaskX21/leetcode-dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
