@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/MaskX21/leetcode-dsa/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/MaskX21/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MaskX21/leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MaskX21/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/MaskX21/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MaskX21/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MaskX21/leetcode-dsa/tree/master/0540-single-element-in-a-sorted-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/MaskX21/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/MaskX21/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/MaskX21/leetcode-dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MaskX21/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/MaskX21/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/MaskX21/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/MaskX21/leetcode-dsa/tree/master/0645-set-mismatch) |
