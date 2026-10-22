@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MaskX21/leetcode-dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MaskX21/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/MaskX21/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/MaskX21/leetcode-dsa/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MaskX21/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/MaskX21/leetcode-dsa/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/MaskX21/leetcode-dsa/tree/master/0179-largest-number) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MaskX21/leetcode-dsa/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/MaskX21/leetcode-dsa/tree/master/0152-maximum-product-subarray) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MaskX21/leetcode-dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Simulation
 |  |
